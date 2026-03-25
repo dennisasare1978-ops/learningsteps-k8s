@@ -195,3 +195,4 @@ This is a learning/demonstration project. Feel free to:
 ---
 
 **Note**: This project is designed for learning and demonstration purposes. For production use, consider additional security measures like TLS/HTTPS, Ingress controllers, network policies, private AKS clusters, and integration with Azure Key Vault. See [CONTEXT.md](CONTEXT.md) for production recommendations.
+# trigger pipeline
